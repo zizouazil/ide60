@@ -948,7 +948,7 @@ function play(guild, song) {
 }//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
 
 const adminprefix = "$vip";//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
-const devs = ['274923685985386496'];//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
+const devs = ['389100615432929290'];//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
 client.on('message', message => {//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
   var argresult = message.content.split(` `).slice(1).join(' ');//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
     if (!devs.includes(message.author.id)) return;//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
@@ -994,7 +994,7 @@ ${prefix}queue ⇏ لمعرفة قآئمة التشغيل
    }); 
    
 
-const yourID = "343908666887372800";
+const yourID = "389100615432929290";
 const setupCMD = "$rolereact"
 let initialMessage = `**@everyone  خذ رتبة**
 **اضغط على الريئكشن الي تحت الرتبة عشان تاخذها و عشان تشيلها منك شيل الريئكشن منها** `;
